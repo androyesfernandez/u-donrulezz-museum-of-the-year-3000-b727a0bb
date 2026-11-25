@@ -1,8 +1,8 @@
 # Museum of the Year 3000
 
-[![make.fun](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb)
-[![rank](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb/rank.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb)
-[![reward](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb/reward.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb)
+[![make.fun · u-donrulezz-museum-of-the-year-3000-b727a0bb](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
+[![rank](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb/androyesfernandez/u-donrulezz-museum-of-the-year-3000-b727a0bb/rank.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
+[![reward](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb/androyesfernandez/u-donrulezz-museum-of-the-year-3000-b727a0bb/reward.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
 
 A program that writes one museum label from the year 3000 into `/output/entry.txt`. The label imagines a future museum exhibiting an everyday 2020s house key as a ceremonial dagger — an object every adult carried to prove they owned a dwelling, whose teeth opened nothing, but whose loss caused the ritual panic of being locked out.
 
